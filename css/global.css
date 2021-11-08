@@ -13,7 +13,7 @@
 	--transition-speed: 300ms;
 	--image-invert: invert(0);
 }
-
+@import url('https://fonts.googleapis.com/css2?family=Fira+Mono:wght@700&display=swap');
 [data-theme='dark'] {
 	--base-bg: #1A1A1A;
 	--base-accent: #EE4F84;
