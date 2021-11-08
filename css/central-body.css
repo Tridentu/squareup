@@ -1,3 +1,5 @@
+
+
 #central-body {
 	position: absolute;
 	top: 50%;
@@ -19,6 +21,7 @@
 	font-weight: bold;
 	font-size: 88pt;
 	color: var(--clock-color);
+	font-family: "Fira Code";
 	white-space: nowrap;
 	text-align: center;
 	margin-bottom: 40px;
