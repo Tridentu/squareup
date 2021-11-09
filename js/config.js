@@ -24,7 +24,7 @@ class Config {
 
 	getFontFamily() {
 		const fontFamilies = {
-			'monospace': 'Fira Code Retina, Hack, Ubuntu Mono, Monaco, Lucida Console, monospace',
+			'monospace': 'Fira Code Retina, Fira Mono, Hack, Ubuntu Mono, Monaco, Lucida Console, monospace',
 			'sans-serif': 'Inter, SF Pro Text, Roboto, Open Sans, sans-serif',
 			'serif': 'serif'
 		};
@@ -404,7 +404,7 @@ class Config {
 				site: 'Github',
 				icon: 'github',
 				url: 'https://github.com/'
-			},
+			},				
 			{
 				site: 'Facebook',
 				icon: 'facebook',
