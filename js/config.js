@@ -123,6 +123,12 @@ class Config {
 				category: 'development'
 			},
 			{
+				site: "C++",
+				icon: "cpp",
+				url: "http://en.cppreference.com",
+				category: "development"
+			},
+			{
 				site: 'Facebook',
 				icon: 'facebook',
 				url: 'https://facebook.com/',
